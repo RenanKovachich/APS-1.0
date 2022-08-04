@@ -16,7 +16,7 @@ html, body{
     background-color: #444444;
 }
 header{
-    background: url(./imagens/sobre-fundo.png) no-repeat;
+    background: url(../imagens/sobre-fundo.png) no-repeat;
     height: 980px;
     line-height: 1.6;
 }
@@ -104,7 +104,7 @@ header{
     box-shadow: inset 1px 1px 5px black;
 }
 section{
-    background: url(./imagens/sobre-fundo2.png);
+    background: url(../imagens/sobre-fundo2.png);
     height: 1000px;
 }
 .texto-section{
@@ -188,31 +188,31 @@ section{
   }
   
   .main-nav li.item1 .bg {
-    background: url(./imagens/foto_renan.png);
+    background: url(../imagens/foto_renan.png);
     background-size: cover;
     background-position: center;
   }
   
   .main-nav li.item2 .bg {
-    background: url(./imagens/foto_thiago.png);
+    background: url(../imagens/foto_thiago.png);
     background-size: cover;
     background-position: center;
   }
   
   .main-nav li.item3 .bg {
-    background: url(./imagens/foto_brenda.png);
+    background: url(../imagens/foto_brenda.png);
     background-size: cover;
     background-position: center;
   }
   
   .main-nav li.item4 .bg {
-    background: url(./imagens/foto_eduardo.png);
+    background: url(../imagens/foto_eduardo.png);
     background-size: cover;
     background-position: center;
   }
   
   .main-nav li.item5 .bg {
-    background: url(./imagens/foto_heloisa.png);
+    background: url(../imagens/foto_heloisa.png);
     background-size: cover;
     background-position: center;
   }
