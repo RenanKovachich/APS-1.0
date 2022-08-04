@@ -24,7 +24,7 @@ html, body{
     padding: 0 2%;
 }
 header{
-    background: url(./imagens/vantagens-fundo.png) no-repeat;
+    background: url(../imagens/vantagens-fundo.png) no-repeat;
     height: 980px;
     line-height: 1.6;
 }
@@ -106,7 +106,7 @@ header{
 }
 
 section{
-    background: url(./imagens/vantagens-fundo-estasti.jpg);
+    background: url(../imagens/vantagens-fundo-estasti.jpg);
     height: 800px;
 }
 .pros{
@@ -252,7 +252,7 @@ section{
 }
 main{
     height: 1000px;
-    background: url(./imagens/vantagens-fundo2.jpg);
+    background: url(../imagens/vantagens-fundo2.jpg);
 }
 .texto-main{
     position: relative;
