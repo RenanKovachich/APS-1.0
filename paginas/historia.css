@@ -27,7 +27,7 @@ a{
     padding: 0 2%;
 }
 header{
-    background: url(./imagens/historia-fundo.jpg) no-repeat;
+    background: url(../imagens/historia-fundo.jpg) no-repeat;
     backdrop-filter: blur(2em);
     height: 980px;
 }
@@ -205,7 +205,7 @@ p {
         animation:revealScaleUp 0.75s 2.82s ease both 1;
       }
 .t-block-teal {
-    background: url(./imagens/historia-fundo2oficial.jpg);
+    background: url(../imagens/historia-fundo2oficial.jpg);
   }
 .t-block-teal h2 {
     color:#fff;
