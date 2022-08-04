@@ -16,7 +16,7 @@ html, body{
     text-decoration: none;
 }
 header{
-    background: url(/imagens/fundo1.jpg) no-repeat;
+    background: url(./imagens/fundo1.jpg) no-repeat;
     height: 980px;
     line-height: 1.6;
 }
@@ -105,7 +105,7 @@ header{
     box-shadow: inset 1px 1px 5px black;
 }
 main{
-    background: url(/imagens/wall2.png) no-repeat;
+    background: url(./imagens/wall2.png) no-repeat;
     height: 1270px;
 }
 .principal{
@@ -166,7 +166,7 @@ p:last-child {
     border-bottom-left-radius:0;
 }
 .parte3{
-    background: url(/imagens/wall3.jpg) no-repeat;
+    background: url(./imagens/wall3.jpg) no-repeat;
     height: 980px;
 }
 .caixa h2{
